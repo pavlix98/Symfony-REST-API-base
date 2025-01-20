@@ -1,1 +1,7 @@
-# Symfony-REST-API-base
+Symfony REST API base
+=====================
+
+
+TODOs
+-----
+[] Static serving of files using nginx
